@@ -8,6 +8,24 @@
     <title>Valorant Agents </title>
 </head>
 <body>
+    <h1>All Valorant Agent</h1>
+    <ul>
+        <li>Astra</li>
+        <li>Breach</li>
+        <li>Brimstone</li>
+        <li>Cypher</li>
+        <li>Jett</li>
+        <li>Killjoy</li>
+        <li>Omen</li>
+        <li>Phoenix</li>
+        <li>Raze</li>
+        <li>Reyna</li>
+        <li>Sage</li>
+        <li>Skye</li>
+        <li>Sova</li>
+        <li>Viper</li>
+        <li>Yoru</li>
+    </ul>
     
 </body>
 </html>
